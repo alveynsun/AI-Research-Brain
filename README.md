@@ -53,9 +53,7 @@ cd ai-research-assistant
 pip install -r requirements.txt
 
 # 根据选择的模型安装额外依赖
-# 如果使用OpenAI: pip install openai
-# 如果使用Azure: pip install openai azure-identity
-# 如果使用Anthropic: pip install anthropic
+参考langchain官方文档https://docs.langchain.com/oss/python/langchain/install
 ```
 
 ### 2. 配置大语言模型（选择一种方式）
